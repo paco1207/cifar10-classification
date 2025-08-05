@@ -1,4 +1,4 @@
-# SCC361 Coursework 1 – MATLAB Project
+# MATLAB Project
 
 This repository contains the MATLAB implementation and data files for SCC361 Coursework 1. The project includes a `.mat` data file and a corresponding `.m` script for analysis, accompanied by a report in DOCX format.
 
